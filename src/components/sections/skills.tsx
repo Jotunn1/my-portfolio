@@ -1,6 +1,5 @@
 "use client";
 
-import React from "react";
 import SectionHeading from "@/components/sectionHeading";
 import { skillsData } from "@/utils/skills";
 import { useSectionScroll } from "@/hooks/useSectionScroll";

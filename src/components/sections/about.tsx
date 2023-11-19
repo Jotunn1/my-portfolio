@@ -1,6 +1,5 @@
 "use client";
 
-import React from "react";
 import SectionHeading from "@/components/sectionHeading";
 import { motion } from "framer-motion";
 import { useSectionScroll } from "@/hooks/useSectionScroll";
