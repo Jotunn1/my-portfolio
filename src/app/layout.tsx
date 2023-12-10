@@ -3,7 +3,7 @@ import "../styles/globals.scss";
 import { Inter } from "next/font/google";
 import ActiveSectionContextProvider from "@/context/active-section-context";
 import ThemeContextProvider from "@/context/theme-context";
-import ThemeSwitch from "@/components/themeSwitch";
+import ThemeSwitch from "@/components/theme-switch";
 import Footer from "@/components/footer";
 // import Head from "next/head";Í
 
