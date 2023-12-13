@@ -42,4 +42,4 @@ export const projectsData: Project[] = [
     link: "https://www.producthunt.com/products/jony-eye",
     imageUrl: jonyEye,
   },
-] as const;
+] as Project[];
